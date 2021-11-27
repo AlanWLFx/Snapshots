@@ -3,11 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ajf_4/AndroidStudioProjects/Snapshots/app/src/main/res/layout/activity_main.xml" value="0.209375" />
-        <entry key="..\:/Users/ajf_4/AndroidStudioProjects/Snapshots/app/src/main/res/layout/fragment_add.xml" value="0.209375" />
-        <entry key="..\:/Users/ajf_4/AndroidStudioProjects/Snapshots/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
-        <entry key="..\:/Users/ajf_4/AndroidStudioProjects/Snapshots/app/src/main/res/layout/fragment_profile.xml" value="0.209375" />
-        <entry key="..\:/Users/ajf_4/AndroidStudioProjects/Snapshots/app/src/main/res/menu/bootom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ejoan/AndroidStudioProjects/Snapshots/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ejoan/AndroidStudioProjects/Snapshots/app/src/main/res/layout/fragment_add.xml" value="0.1" />
+        <entry key="..\:/Users/ejoan/AndroidStudioProjects/Snapshots/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/ejoan/AndroidStudioProjects/Snapshots/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/ejoan/AndroidStudioProjects/Snapshots/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
       </map>
     </option>
   </component>
